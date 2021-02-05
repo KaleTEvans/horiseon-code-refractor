@@ -5,7 +5,7 @@ A marketing website with updated functionality for ease of use
 
 ## Built Wih
 * HTML
-*CSS
+* CSS
 
 ## Website
 
